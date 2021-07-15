@@ -1,0 +1,16 @@
+C:\Users\katia\inicial\bin\Debug\net5.0\inicial.exe
+C:\Users\katia\inicial\bin\Debug\net5.0\inicial.deps.json
+C:\Users\katia\inicial\bin\Debug\net5.0\inicial.runtimeconfig.json
+C:\Users\katia\inicial\bin\Debug\net5.0\inicial.runtimeconfig.dev.json
+C:\Users\katia\inicial\bin\Debug\net5.0\inicial.dll
+C:\Users\katia\inicial\bin\Debug\net5.0\ref\inicial.dll
+C:\Users\katia\inicial\bin\Debug\net5.0\inicial.pdb
+C:\Users\katia\inicial\obj\Debug\net5.0\inicial.csproj.AssemblyReference.cache
+C:\Users\katia\inicial\obj\Debug\net5.0\inicial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\katia\inicial\obj\Debug\net5.0\inicial.AssemblyInfoInputs.cache
+C:\Users\katia\inicial\obj\Debug\net5.0\inicial.AssemblyInfo.cs
+C:\Users\katia\inicial\obj\Debug\net5.0\inicial.csproj.CoreCompileInputs.cache
+C:\Users\katia\inicial\obj\Debug\net5.0\inicial.dll
+C:\Users\katia\inicial\obj\Debug\net5.0\ref\inicial.dll
+C:\Users\katia\inicial\obj\Debug\net5.0\inicial.pdb
+C:\Users\katia\inicial\obj\Debug\net5.0\inicial.genruntimeconfig.cache
